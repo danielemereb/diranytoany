@@ -2,6 +2,7 @@
 
 ### Informações: ####
 - O script usa o FFMPEG.
+- Está sujeito a modificações.
 - Foi utilizado para converter áudios.
 - Interação Mínima.
 - [Garanta que seu FFMPEG foi compilado corretamente.](http://trac.ffmpeg.org/wiki/TheoraVorbisEncodingGuide)
