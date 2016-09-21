@@ -1,6 +1,6 @@
 		 diranytoany - Script Personalizável 
 
-### Informações: ####
+### Informações: ###
 - O script usa o FFMPEG.
 - Está sujeito a modificações.
 - Foi utilizado para converter áudios.
@@ -9,7 +9,7 @@
 - Fiz de qualquer jeito mesmo. :P
 - Sinta-se livre para cloná-lo e modificá-lo a sua vontade.
 
-### Modo de usar ###
+### Modo de usar: ###
 - Execute-o da seguinte forma: **sh diranytoany.sh formatoalvo**
 - Em *formatoalvo* coloque o formato dos arquivos que deseja converter, seja ele flac, mp3 ou até mesmo ogg.
 - Ele irá pedir o endereço total da pasta com os arquivos, o padrão - tecla 'enter' diretamente - é a pasta em que o script está executando.
