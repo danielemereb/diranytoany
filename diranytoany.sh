@@ -1,5 +1,7 @@
 #!/bin/bash
 #Código usa ffmpeg, personalizar a vontade.
+#O script está sujeito a modificações.
+#UPDATA: 20/09
 #Cheque o 'man ffmpeg' caso tenha duvidas na personalização.
 
 IFS=$'\n'
