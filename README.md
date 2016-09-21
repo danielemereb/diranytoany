@@ -5,7 +5,7 @@
 - Está sujeito a modificações.
 - Foi utilizado para converter áudios.
 - Interação Mínima.
-- [Garanta que seu FFMPEG foi compilado corretamente.](http://trac.ffmpeg.org/wiki/TheoraVorbisEncodingGuide)
+- [Garanta que seu FFMPEG foi compilado corretamente antes de usá-lo.](http://trac.ffmpeg.org/wiki/TheoraVorbisEncodingGuide)
 - Fiz de qualquer jeito mesmo. :P
 - Sinta-se livre para cloná-lo e modificá-lo a sua vontade.
 
