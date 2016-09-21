@@ -23,7 +23,7 @@ then
 	FINALFORMAT=ogg
 fi
 
-echo 'Informe a taxa de bit: [Padrão=220k]'
+echo 'Informe a taxa de bit: [Padrão = 220k]'
 read TAXABIT
 test $TAXABIT
 if [ $? = 1 ]
